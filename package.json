@@ -3,10 +3,7 @@
   "version": "1.0.1",
   "description": "Cordova Sketch Plugin",
   "cordova": {
-    "id": "cordova-plugin-sketch",
-    "platforms": [
-      "windows"
-    ]
+    "id": "cordova-plugin-sketch"
   },
   "keywords": [
     "cordova",
